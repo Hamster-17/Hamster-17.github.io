@@ -1,2 +1,7 @@
-# Hamster-17.github.io
-Hello Nicholas 
+
+Welcome 
+
+Nicholas Hamilton 
+
+Currently a graduate Intern at Dimension Data 
+
